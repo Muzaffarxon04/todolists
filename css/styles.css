@@ -1,0 +1,7 @@
+.todo-input-complete:checked + .todo-item-complete-text{
+    text-decoration: line-through black;
+    
+}
+h1{
+    text-align: center;
+}
